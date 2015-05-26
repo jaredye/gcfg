@@ -11,7 +11,7 @@ import (
 )
 
 import (
-	"code.google.com/p/gcfg/token"
+	"github.com/jaredye/gcfg/token"
 )
 
 var fset = token.NewFileSet()

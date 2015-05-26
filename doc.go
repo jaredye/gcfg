@@ -37,7 +37,7 @@
 // correspond to underscores '_' in field names.
 // Fields must be exported; to use a section or variable name starting with a
 // letter that is neither upper- or lower-case, prefix the field name with 'X'.
-// (See https://code.google.com/p/go/issues/detail?id=5763#c4 .)
+// (See https://github.com/jaredye/go/issues/detail?id=5763#c4 .)
 //
 // For sections with subsections, the corresponding field in config must be a
 // map, rather than a struct, with string keys and pointer-to-struct values.
